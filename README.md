@@ -21,7 +21,7 @@ This guide has 8 Parts:
 
 ### Part 1.1 - Creating folder for the VM, (this part is important for projects completed on the 42 computers) 
 
-1. Open iterm2
+1. Open the terminal
 
 <!-- <img width="622" alt="Screen Shot 2022-07-26 at 4 26 06 PM" src="https://user-images.githubusercontent.com/58959408/180943494-9c25b321-4cae-4c39-89bb-92271a245489.png"> -->
 
@@ -29,11 +29,11 @@ This guide has 8 Parts:
 
 <!-- <img width="622" alt="Screen Shot 2022-07-26 at 4 26 27 PM" src="https://user-images.githubusercontent.com/58959408/180943649-42dba828-3bd3-45ee-92ea-4e7218d65674.png"> -->
 
-3. Then make a directory `mkdir <your intra username>`
+3. Then make a directory `mkdir born2beroot`
 
 <!-- <img width="622" alt="Screen Shot 2022-07-26 at 4 26 38 PM" src="https://user-images.githubusercontent.com/58959408/180943705-d9705f63-59a9-4b2d-9130-75d8711a25d3.png"> -->
 
-4. Then type `chmod 700 <your intra username> && cd <your intra username>`
+4. Then type `chmod 700 born2beroot && cd born2beroot`
 
 5. Then make directory called `born2beroot` (don't change the permisions)
 
